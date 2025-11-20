@@ -1,4 +1,4 @@
-public class TiposDeDados_002 {
+public class TiposDeDados {
     public static void main(String[] args) {
         
         String texto = "Olá, Mundo!";
