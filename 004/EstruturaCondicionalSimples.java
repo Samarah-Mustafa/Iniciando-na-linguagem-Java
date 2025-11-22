@@ -1,4 +1,4 @@
-public class EstruturasCondicionaisSimples {
+public class EstruturaCondicionalSimples {
     public static void main(String[] args) {
         int nota = 8;
 
