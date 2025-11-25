@@ -21,6 +21,8 @@ O principal objetivo deste repositório é fornecer uma **trilha de aprendizado 
 
 Os exercícios estão divididos em:
 * **Primeiro "Hello World!" em Java**
+* **Tipos de Dados**
+* **Operadores Lógicos**
 * **Estruturas Condicionais**
 * **Estruturas de Repetição**
 * **Vetores e Matrizes**
