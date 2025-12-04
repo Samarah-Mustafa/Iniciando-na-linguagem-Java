@@ -1,5 +1,5 @@
 # Iniciando-na-linguagem-Java
-Exercício para aprendizagem da linguagem Java (Em progresso...)
+Exercício para aprendizagem da linguagem Java (Em progresso...7/100)
 ## 🚀 Iniciando na Linguagem Java
 
 Este repositório é o seu ponto de partida para dominar a linguagem de programação **Java**\! Se você está iniciando no mundo da programação ou migrando de outra linguagem, aqui encontrará uma coleção organizada de exercícios práticos, projetados para solidificar seus fundamentos e prepará-lo para os desafios reais do desenvolvimento de software.
@@ -21,6 +21,8 @@ O principal objetivo deste repositório é fornecer uma **trilha de aprendizado 
 
 Os exercícios estão divididos em:
 * **Primeiro "Hello World!" em Java**
+* **Tipos de Dados**
+* **Operadores Lógicos**
 * **Estruturas Condicionais**
 * **Estruturas de Repetição**
 * **Vetores e Matrizes**
